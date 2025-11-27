@@ -82,13 +82,17 @@ Ce logiciel est une solution d'automatisation (Wrapper) qui orchestre les compos
 <a id="version-keepassxc"></a>
 *Par défaut, ce script télécharge la version 2.7.9 disponible via l'API GitHub du projet KeePassXC.*
 
-**cette vesion à recu la certification ANSSI-CSPN-2025/16 le 17 Novembre 2025**   
+**Cette version à recu la certification ANSSI-CSPN-2025/16 le 17 Novembre 2025**   
+  
 **https://cyber.gouv.fr/produits-certifies/keepassxc-version-279**
 
+  
 # Environnement de test de developpement
 
 - Windows 11 Professionnel pour les Stations de travail
 - Clé OTP Yubikey 5
+- 2 Clé USB SanDisk Ultra
+- KeepassXC version 2.7.9
 - Environnement Powershell : $PSVersionTable
 
 ```text
